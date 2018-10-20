@@ -1,1 +1,11 @@
-
+Download the following jar files and put them into the lib folder:
+ejml-0.23.jar
+joda-time.jar
+jollyday.jar
+jwnl.jar
+protobuf.jar
+slf4j-api.jar
+slf4j-simple.jar
+stanford-corenlp-3.8.0.jar
+stanford-corenlp-3.8.0-models.jar
+xom.jar
