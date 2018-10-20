@@ -1,3 +1,23 @@
 
 We implemented an extension of PMD, defining rules for each type of LA based on their definitions to detect the LAs. 
 The eclipse-plugin is attached.
+
+To use the Tool you need to do the following steps:
+
+1- Download the needed jar files and put them into the lib folder:
+ejml-0.23.jar
+joda-time.jar
+jollyday.jar
+jwnl.jar
+protobuf.jar
+slf4j-api.jar
+slf4j-simple.jar
+stanford-corenlp-3.8.0.jar
+stanford-corenlp-3.8.0-models.jar
+xom.jar
+
+2- Then, paste all the folders into the /plugins direction from your eclipse folder. 
+3- Import the ruleset. In eclipse -> go to Window -> Preferences and select the Ruleset selection tab in the PMD category. 
+4- Browse to the path of my custom ruleset which is in the bin folder of the plug-in under the name LA_ruleset.xml. 
+5- Press the Add rule set button. The custom rule set should be added to the list.
+6- Press OK to close the Preferences dialog. 
