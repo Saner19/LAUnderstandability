@@ -4,7 +4,7 @@ The eclipse-plugin is attached.
 
 To use the Tool you need to do the following steps:
 
-1- Download the needed jar files and put them into the lib folder:
+1- Download the following jar files and put them into the lib folder:
 ejml-0.23.jar
 joda-time.jar
 jollyday.jar
