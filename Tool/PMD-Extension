@@ -1,1 +1,2 @@
 
+We implemented an extension of PMD, defining rules for each type of LA based on their definitions to detect the LAs. The eclipse-plugin is attached.
